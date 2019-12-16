@@ -21,3 +21,5 @@ Zhu Z, Liang D, Zhang S, Huang X, Li B, Hu S. Traffic-Sign Detection and Classif
 
 First Author Name:Wu Tang
 E-mail:455564720@qq.com
+
+The author continues to update this dataset
