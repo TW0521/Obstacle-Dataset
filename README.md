@@ -45,7 +45,8 @@ Zhu Z, Liang D, Zhang S, Huang X, Li B, Hu S. Traffic-Sign Detection and Classif
 
 
 
-if you have any question,You can contact me according to the following email<br>
+if you have any question,You can contact me according to the following email.<br>
 E-mail:`tangwu0521@gmail.com`<br>
 
-The author continues to update this dataset<br>
+The author continues to update this dataset.<br>
+If you feel helpful to you, please light up the stars.
