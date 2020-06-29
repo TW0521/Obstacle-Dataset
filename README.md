@@ -1,5 +1,5 @@
 # Obstacle-dataset
-Dataset for fifteen types of obstacle detection, You can download the completed dataset from here[]
+Dataset for fifteen types of obstacle detection, Because the data is too large to put in Github, please click the link to get it from Googledriver
 -
 Classes ["stop_sign","person","bicycle","bus","truck","car","motorbike","reflective_cone","ashcan","warning_column","spherical_roadblock","pole","dog","tricycle","fire_hydrant"]
 
