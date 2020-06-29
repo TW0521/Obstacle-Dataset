@@ -7,7 +7,7 @@ This obstacle dataset follows the format of the VOC dataset, if you are not clea
 
 The dataset contains xml files in VOC format and .txt files for yolo training,as follows.<br>
 
-VOC format<br>
+VOC format.<br>
 -
 -JPEGImages<br>
 -Annotations<br>
