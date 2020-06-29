@@ -15,7 +15,6 @@ VOC format.<br>
 　--Main<br>
 　　---train.txt<br>
 　　---test.txt<br>
-　　---trainval.txt<br>
 　　---val.txt<br>
 According to pictures and labels,as follows.<br>
 　　img-train for training Contains 5066 images　　ann-train<br>
